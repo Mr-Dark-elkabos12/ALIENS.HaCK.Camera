@@ -19,7 +19,7 @@ git clone https://github.com/hackermohamedPro/ALIENS.HaCK.Camera
 جيد ادخل للاداة 
 
 
-cd ALIENS.HaCK.Camera
+cd Mr.elkabos_Camera
 
 
 كل شي عربي استمتع تحية محمد برو 
